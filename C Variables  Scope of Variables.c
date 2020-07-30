@@ -1,6 +1,6 @@
 /**
    [PROG]	  :  Scope of Variables in C
-   [AUTHOR]	:  Saddam Arbaa
+   [AUTHOR]	  :  Saddam Arbaa
    [Email]        : <saddamarbaas@gmail.com>
 
    Local , Global variables , Const , Automatic and Static   */
