@@ -33,15 +33,7 @@ int main()
 }/** End of Main */
 
 
-
-/** function to convert given decimal number to binary
-  the idea is reading the decimal number using N variable.
-
-   1. Check whether the number is less than or equal to zero.
-     Divide the number by 2 and store the remainder in the array.
-     Increase the length of the array by 1.
-     After the execution of while loop,
-     print the binary number and the number of 1’s.*/
+/**  function to convert given decimal number to binary */
 
 void Decimal_to_Binary(int decimal_num)
 {
