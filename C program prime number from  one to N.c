@@ -49,7 +49,7 @@ void isPrime(int num)
 
     
     /* start outer loop from 2 until num */
-    for(int i = 2; i <= num; i++)
+    for(int i = 2; i < num; i++)
     {
         // each iteration set flag to zero
          flag = 0;
