@@ -3,7 +3,7 @@
 
   [Email]  :  <saddamarbaas@gmail.com>
 
- C  program to generate Random Number in a given range */
+ C  program to generate Random Number in a given range  */
 
 #include <stdio.h>
 #include <stdlib.h>
