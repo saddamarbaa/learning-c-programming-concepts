@@ -1,4 +1,3 @@
-
 /**
     [PROGRAM] : C / (Exercise) Fibonacci Sequence
     [AUTHOR]  :  Saddam Arbaa
