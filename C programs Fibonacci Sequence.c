@@ -30,7 +30,8 @@ int main()
    printf("%d\t%d\t", a, b);
 
     /**  Calculating  Fibonacci Sequence  start from here*/
-    for( i = 1; i <= n ; i++)
+    //loop starts from 2 because 0 and 1 are already printed
+    for( i = 2; i <= n ; i++)
     {
         c = a + b; // Calculate sum of a+ b and store in c
         printf("%d\t",c);
