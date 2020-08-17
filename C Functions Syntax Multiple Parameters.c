@@ -1,4 +1,3 @@
-
 /**
     [PROGRAM] : C Multiple Parameters
     [AUTHOR]  :  Saddam Arbaa
