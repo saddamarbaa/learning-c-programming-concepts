@@ -11,7 +11,7 @@ void Count_Recursively(int n); // Function declaration
 
 int main() // the main Function
 {
-    int n; //variable declaration
+    int n; // variable declaration
 
     printf("Enter positive number N :"); // asking user input
     scanf("%d",&n);
