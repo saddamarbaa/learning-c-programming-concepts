@@ -1,4 +1,3 @@
-
 /**
     [PROGRAM] : C/C++ struct
     [AUTHOR]  :  Saddam Arbaa
