@@ -27,7 +27,7 @@ int main() // the  Driver Code
 
     return 0; // signal to operating system program ran fine
 
-}/** End for loop */
+}/** End for main */
 
 
 /** function to Reverse given number and print in Reverse order*/
