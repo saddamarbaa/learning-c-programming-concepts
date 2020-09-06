@@ -3,7 +3,7 @@
     [AUTHOR]  :  Saddam Arbaa
     [Email]   :  <saddamarbaas@gmail.com>
     Write program to find GCD(Greatest common divisor)
-    between M,N using Euclid's algorithm */
+    between M, N using Euclid's algorithm */
 
 #include <stdio.h>
 #include <stdlib.h>
